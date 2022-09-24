@@ -1,7 +1,16 @@
-h1, h2 {background-color: lightblue;}
+.matcha-heading {color: darkgreen;
+                background-color: lightgreen;}
+
+.tiramisu-heading {color: brown;
+                    background-color: beige;}
+
+.tart-heading {color: darkgoldenrod;
+                background: lightyellow;}
+
+#quote {font-weight: bold;}
 
 * {color:darkblue;
     font-family: Optima, sans-serif}
 img {height: auto;
-    width: 400px;
-    align-content: center;}
+    width: 400px}
+
