@@ -1,3 +1,14 @@
+#main-title {color:darkblue;
+    background-color: lightcyan;
+     font-family: Optima, sans-serif;}
+
+h1, h2 {font-family: Optima, sans-serif;}
+
+.list {font-size: 18px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+
+
+
 .matcha-heading {color: darkgreen;
                 background-color: lightgreen;}
 
@@ -9,8 +20,6 @@
 
 #quote {font-weight: bold;}
 
-* {color:darkblue;
-    font-family: Optima, sans-serif}
 img {height: auto;
     width: 400px}
 
